@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://hs4bir.github.io/sitemap.xml
