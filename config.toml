@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://movabs.github.io"
+base_url = "https://hs4bir.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -53,7 +53,7 @@ avatar = "/images/avatar.png"
 # Social links
 [extra.social]
 email = "lenartlola@proton.me"
-github = "movabs"
+github = "hs4bir"
 twitter = "xorr0r0"
 #google_scholar = "<googlescholar_userid>"
 #mastodon_username = "<mastadon_username>"
